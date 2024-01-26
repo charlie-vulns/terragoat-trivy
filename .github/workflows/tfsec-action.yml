@@ -10,7 +10,7 @@ jobs:
   build:
     name: Build
     runs-on: ubuntu-20.04
-      permissions:
+    permissions:
       security-events: write
       actions: read
       contents: read
