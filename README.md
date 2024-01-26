@@ -375,7 +375,6 @@ If you need direct support you can contact us at [info@bridgecrew.io](mailto:inf
 | 120 | CKV_GCP_22   | /gcp/gke.tf               | google_container_node_pool.custom_node_pool          | Ensure Container-Optimized OS (cos) is used for Kubernetes Engine Clusters Node image                                                                                                                    | https://docs.bridgecrew.io/docs/bc_gcp_kubernetes_14                                         |
 | 121 | CKV_GCP_10   | /gcp/gke.tf               | google_container_node_pool.custom_node_pool          | Ensure 'Automatic node upgrade' is enabled for Kubernetes Clusters                                                                                                                                       | https://docs.bridgecrew.io/docs/bc_gcp_kubernetes_5                                          |
 
-
 ---
 
 
